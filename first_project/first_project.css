@@ -1,0 +1,28 @@
+.boxy{
+  border: 1px solod black;
+  border-radius: 10px;
+  background-color: rgb(40, 40, 40);
+  padding: 2px;
+  margin: 0px;
+}
+
+
+.para1{
+  margin: 20px;
+  margin-top: 5px;
+  padding: 5px;
+  font-family: sans-serif;
+}
+
+#h1{
+  font-size: 60px;
+}
+#h31{
+  font-size: 1.5em;
+}
+#h32{
+  font-size: 1.5em;
+}
+#h33{
+  font-size: 1.5em;
+}

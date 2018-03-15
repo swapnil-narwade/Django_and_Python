@@ -1,0 +1,48 @@
+body{
+  background-color: skyblue;
+}
+h1{
+  color: blue;
+  font-family: "arial";
+  font-size: 2em;
+  font-style: italic;
+  font-weight: bold;
+}
+.firstclass{
+  height: 20px;
+  width: 100%;
+  margin: 0px;
+}
+.colomn{
+
+  height: 100px;
+  width: 300px;
+  margin-left: 10px;
+
+}
+#box{
+  background-color: red;
+}
+td {
+  border: 1px white solid;
+}
+#first{
+  background-color: #247BA0;
+  padding: 5px;
+}
+#second{
+  background-color: #70C1B3;
+  padding: 5px;
+}
+#third{
+  background-color: #B2DBBF;
+  padding: 5px;
+}
+#fourth{
+  background-color: #F3FFBD;
+  padding: 5px;
+}
+#fifth{
+  background-color: #FF1654;
+  padding: 5px;
+}
